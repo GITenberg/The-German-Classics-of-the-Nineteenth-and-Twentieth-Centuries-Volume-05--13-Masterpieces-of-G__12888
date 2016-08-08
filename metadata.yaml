@@ -1,0 +1,52 @@
+_repo: The-German-Classics-of-the-Nineteenth-and-Twentieth-Centuries-Volume-05--13-Masterpieces-of-G__12888
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Francke, Kuno
+    birthdate: 1855
+    deathdate: 1930
+    gutenberg_agent_id: '3853'
+    url: http://www.gutenberg.org/2009/agents/3853
+    wikipedia: http://en.wikipedia.org/wiki/Kuno_Francke
+description: ''
+gutenberg_bookshelf: Germany
+gutenberg_issued: '2004-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12888'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German literature -- 20th century -- Translations into English'
+- !lcsh 'German literature -- 19th century -- Translations into English'
+- !lcc 'PT'
+- GITenberg
+tableOfContents: 'The Romantic Philosophers--Fichte, Schelling, and Schleiermacher.
+  By Frank Thilly -- Schleiermacher: On the Social Element in Religion. -- Gottlieb
+  Fichte: The Destiny of Man. -- Addresses to the German Nation. -- von Schelling:
+  On the Relation of the Plastic Arts to Nature. -- Later German Romanticism. By George
+  H. Danton -- von Arnim and Brentano: The Boy''s Magic Horn. (selections) -- Grimm:
+  The Frog King, or Iron Henry -- The Wolf and the Seven Little Kids -- Rapunzel --
+  Haensel and Grethel -- The Fisherman and His Wife -- Arndt: Song of the Fatherland.
+  -- Union Song. -- Körner: Men and Knaves. -- Lützow''s Wild Band. -- Prayer During
+  Battle. -- von Schenkendorf: The Mother Tongue. -- Spring Greeting to the Fatherland.
+  -- Freedom. -- Uhland: The Chapel. -- The Shepherd''s Song on the Lord''s Day. --
+  The Castle by the Sea. -- Song of the Mountain Boy. -- Departure. -- Farewell. --
+  The Hostess'' Daughter. -- The Good Comrade. -- The White Hart. -- The Lost Church.
+  -- Charlemagne''s Voyage. -- Free Art. -- Taillefer. -- Suabian Legend. -- The Blind
+  King. -- The Minstrel''s Curse. -- The Luck of Edenhall. -- On the Death of a Child.
+  -- von Eichendorff: The Broken Ring. -- Morning Prayer. -- From the Life of a Good-for-nothing.
+  -- von Chamisso: The Castle of Boncourt. -- The Lion''s Bride. -- Woman''s Love
+  and Life. -- The Women of Weinsberg. -- The Crucifix. -- The Old Singer. -- The
+  Old Washerwoman. -- The Wonderful History of Peter Schlemihl. -- Hoffmann: The Golden
+  Pot. -- Motte-Fouqué: Selections from Undine. -- Hauff: Cavalryman''s Morning Song.
+  -- The Sentinel. -- Rückert: Barbarossa. -- From My Childhood Days. -- The Spring
+  of Love. -- He Came to Meet Me. -- The Invitation. -- Murmur Not. -- A Parable.
+  -- Evening Song. -- Chidher. -- At Forty Years. -- Before the Doors. -- von Platen-Hallermund:
+  The Pilgrim Before St. Just''s. -- The Grave of Alaric. -- Remorse. -- Would I were
+  Free as are My Dreams. -- Sonnet.'
+title: "The German Classics of the Nineteenth and Twentieth Centuries, Volume 05\r\
+  \nMasterpieces of German Literature Translated into English"
+url: http://www.gutenberg.org/ebooks/12888
